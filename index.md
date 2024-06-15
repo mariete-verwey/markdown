@@ -23,3 +23,7 @@ private void testValue(String helloIn, String worldIn)
   System.out.println("Values: " + hello + world);
 }
 ````
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
